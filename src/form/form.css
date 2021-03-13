@@ -1,0 +1,35 @@
+.form{
+    border: 2px solid #b7b9bd;
+    margin : auto;
+    padding: 24px;
+    max-width: 600px;
+    margin-top: 200px;
+    box-shadow: 5px 10px #f2f2f2;
+    border-radius: 4px;
+    
+}
+
+.form-control{
+    margin-top: 16px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.form-control--input{
+    height: 40px;
+    font-size: 20px;
+    width: 100%;
+    border-radius: 4px;
+    box-shadow: 2px 5px #f0eded;
+}
+.form-control--submit{
+    background-color: cornflowerblue;
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+    border-radius: 4px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600px;
+}
