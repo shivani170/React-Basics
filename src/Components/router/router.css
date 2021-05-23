@@ -1,0 +1,23 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around ;
+    align-items: center;
+    min-height: 10;
+    background-color: rgb(27, 65, 141);
+    color: white;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-links{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+
+}
