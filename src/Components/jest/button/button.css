@@ -1,0 +1,23 @@
+.testing-wrap{
+    width: 100%;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
+.my-counter{
+
+}
+
+.button-style{
+    border: 1px solid darkblue;
+    border-radius: 4px;
+    background-color: #6e7aa6;
+    color: white;
+    width: 70px;
+    font-weight: 600;
+    display: flex;
+    padding: 4px 15px;
+    cursor: pointer;
+}

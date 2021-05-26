@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import FormHooks from './Components/HooksForm';
-import Form from './form/Form';
-import Home from './Component/Router/App';
-import UseForm from './UseForm';
+import Form from './Components/form/Form';
+import UseForm from './Components/UseForm';
+import Button from './Components/jest/button/button';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -11,7 +11,7 @@ ReactDOM.render(
     {/* <Form/> */}
     {/* <FormHooks/> */}
     {/* <Home /> */}
-
+<Button label={"Click me"}/>
   </React.StrictMode>,
 
   document.getElementById('root')

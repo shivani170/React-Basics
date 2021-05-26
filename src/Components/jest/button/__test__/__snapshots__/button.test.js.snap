@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+Array [
+  <div>
+    My Counter
+  </div>,
+  <div
+    className="button-style"
+    data-testid="button"
+  >
+    Please Save
+  </div>,
+]
+`;
